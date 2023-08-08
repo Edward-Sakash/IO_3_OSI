@@ -169,3 +169,6 @@ The directory tree now should look like this:
     - customers.csv
     - jobs.csv
 ```
+
+# Exercise 6: Recursive File Search
+Write a function that searches for all files with a given extension (e.g., ".txt") in a directory and its subdirectories. Print the full paths of these files.
